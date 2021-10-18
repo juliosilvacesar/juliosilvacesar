@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Julio Silva 👋
 
-- 🔭 Atualmente Estagiario de Suporte de Sistemas ERP Wshop, Ishop, ERP For ME na https://www.altersystem.com.br/ Representação da Alterdata e Faço Freelances como Front-end e Back-End.
+- 🔭 Atualmente Estagiando na <a href="https://www.altersystem.com.br/" target="_blank">AlterSystem</a> como Suporte de Sistemas ERP (Wshop, Ishop, ERP For ME) Representação da Alterdata e Faço Freelances como Front-end e Back-End.
 - 🌱 Estudando Python, Java, React, Nodejs e Django 
 - 📫 Contate-me no email: juliocesra38@gmail.com
 - 😄 Pronouns: Ele/Dele ou Elx/Delx
