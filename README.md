@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Julio Silva 👋
 
-- 🔭 Atualmente estou Estagiando na empresa <a href="https://www.altersystem.com.br/" target="_blank">AlterSystem</a> como Suporte de Sistemas ERP (Wshop, Ishop, ERP For ME) Representação da Alterdata e Faço Freelances como Front-end e Back-End.
+- 🔭 Desenvolvedor Full-Stack JAVA em processo de contatação na <a href="https://www.topaz.com.uy/pt-br" target="_blank">Topaz</a>.
 - 🌱 Estudando Python, Java, React, Nodejs e Django 
 - 📫 Contate-me no email: juliocesra38@gmail.com
 - 😄 Pronouns: Ele/Dele ou Elx/Delx
