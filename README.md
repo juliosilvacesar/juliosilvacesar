@@ -39,9 +39,9 @@
 <div style="display: inline_block"><br>
   <h1>Tools</h1>
   <img align="center" alt="JulioVscodea" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original-wordmark.svg">
-  <img align="center" alt="JulioEclipse" height="50" width="60" src="https://img.icons8.com/office/16/000000/java-eclipse.png">
-  <img align="center" alt="Julionetbeans" height="50" width="60" src="https://img.icons8.com/windows/32/000000/netbeans.png">
-  <img align="center" alt="JulioBoot" height="50" width="60" https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg>
+  <img align="center" alt="JulioEclipse" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/intellij/intellij-original-wordmark.svg">
+  <img align="center" alt="Julionetbeans" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.sv">
+  <img align="center" alt="JulioBoot" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg">
   <img align="right" alt="Juliopic" height="150" style="border-radius:90%"  src="https://1.bp.blogspot.com/-6XjCcT_WlOE/XvPyvlBPjTI/AAAAAAABq20/YvwnSprC_2cOrG9XpNjyVfrf7JK9IiJdwCLcBGAsYHQ/s1600/9108-ichcymv8915505.jpg"> 
 </div>
   
