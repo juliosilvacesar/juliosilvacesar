@@ -21,10 +21,11 @@
   <img align="center" alt="JulioHTML" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JulioCSS" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
   <img align="center" alt="JulioPython" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+  <img align="center" alt="JulioJava" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
 </div>  
 <div style="display: inline_block"><br>
   <h1>Database Management</h1>
-  <img align="center" alt="JulioJava" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
+  <img align="center" alt="JulioJava" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/microsoftsqlserver/microsoftsqlserver-plain-wordmark.svg">
   <img align="center" alt="JulioPqSql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="JulioMySql" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
   <img align="center" alt="JulioOracle" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
