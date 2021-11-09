@@ -12,7 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
-  <h1>Programming languages</h1>
+  <h1>Languages</h1>
   <img align="center" alt="JulioJs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JulioTs" height="50" width="60" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JulioNode" height="50" width="60" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
