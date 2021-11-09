@@ -12,6 +12,7 @@
 </div>
   
 <div style="display: inline_block"><br>
+  <h1>Programming languages</h1>
   <img align="center" alt="JulioJs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="JulioTs" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
   <img align="center" alt="JulioNode" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg">
@@ -19,12 +20,16 @@
   <img align="center" alt="JulioReact" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
   <img align="center" alt="JulioHTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="JulioCSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JulioPython" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+  <img align="center" alt="JulioPython" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">  
+</div>
+  ##
+<div style="display: inline_block"><br>
+  <h1>Database Management</h1>
   <img align="center" alt="JulioJava" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/java/java-plain-wordmark.svg">
   <img align="center" alt="JulioPqSql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/postgresql/postgresql-original-wordmark.svg">
   <img align="center" alt="JulioMySql" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg">
-  <img align="center" alt="JulioMySql" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
-  <img align="right" alt="Juliopic" height="150" style="border-radius:90%"  src="https://1.bp.blogspot.com/-6XjCcT_WlOE/XvPyvlBPjTI/AAAAAAABq20/YvwnSprC_2cOrG9XpNjyVfrf7JK9IiJdwCLcBGAsYHQ/s1600/9108-ichcymv8915505.jpg">
+  <img align="center" alt="JulioOracle" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg">
+  <img align="right" alt="Juliopic" height="150" style="border-radius:90%"  src="https://1.bp.blogspot.com/-6XjCcT_WlOE/XvPyvlBPjTI/AAAAAAABq20/YvwnSprC_2cOrG9XpNjyVfrf7JK9IiJdwCLcBGAsYHQ/s1600/9108-ichcymv8915505.jpg"> 
 </div>
   
  ##
