@@ -3,7 +3,7 @@
 - 🔭 Desenvolvedor Full-Stack JAVA na <a href="https://www.topaz.com.uy/pt-br" target="_blank">Topaz</a>.
 - 🌱 Estudando Python, Java, React, Nodejs e Django 
 - 📫 Contate-me no email: juliocesra38@gmail.com
-- 😄 Pronouns: Ele/Dele ou Elx/Delx
+- 😄 Pronouns: Ele/Dele
 
 <div align="center">
   <a href="https://github.com/juliosilvacesar">
