@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Julio Silva 👋
 
 - 🔭 Desenvolvedor Full-Stack JAVA na <a href="https://www.topaz.com.uy/pt-br" target="_blank">Topaz</a>.
-- 🌱 Estudando Python, Java, React, Nodejs e Django 
+- 🌱 Software Architecture Engineer e Quality Assurance (QA), Diploma em TADS - Unirb/BA, Esp. QA - Mentorama. 
 - 📫 Contate-me no email: juliocesra38@gmail.com
 - 😄 Pronouns: Ele/Dele
 
